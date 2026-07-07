@@ -1,0 +1,8 @@
+{
+  "name": "R.J Computer Institute",
+  "description": "Modern, premium, and responsive website for R.J Computer Institute featuring course listings, student reviews, gallery, and admission forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
